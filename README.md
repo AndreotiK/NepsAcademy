@@ -2,4 +2,4 @@ Neste repositório há uma série de exercícios resolvidos disponíveis no site
 
 | **Neps Academy** | **GitHub** |
 |------------|------------------|
-| [Basic Programing](https://neps.academy/br/subjects?category=0) | [Repositório](https://github.com/AndreotiK/NepsAcademy/tree/main/Basic%20Programming) |
+| [Programação Básica](https://neps.academy/br/subjects?category=0) | [Repositório](https://github.com/AndreotiK/NepsAcademy/tree/main/Basic%20Programming) |
