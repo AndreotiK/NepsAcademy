@@ -2,7 +2,6 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 
 | **Enunciado no Neps Academy** | **Resolução no Repositório** |
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-
 |[Aprovado ou Reprovado](https://neps.academy/br/exercise/86)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Aprovado%20ou%20Reprovado.cpp)  | 
 |[Basquete de Robôs](https://neps.academy/br/exercise/162)   |[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Basquete%20de%20Robôs.cpp)      |
 |[Bondinho](https://neps.academy/br/exercise/13)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Bondinho.cpp)|
