@@ -15,7 +15,7 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Classificação de Triângulos](https://neps.academy/br/exercise/663)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Classificação%20de%20Triângulos.cpp)|
 |[Cobra Coral](https://neps.academy/br/exercise/72)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Cobra%20Coral.cpp)|
 |[Código (OBI 2015)](https://neps.academy/br/exercise/47)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Código%20(OBI%202015).cpp)|
-|[Flíper](https://neps.academy/br/exercise/87)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Flipper.cpp)|
+|[Flíper](https://neps.academy/br/exercise/87)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Flíper.cpp)|
 |[Gangorra](https://neps.academy/br/exercise/260)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Gangorra.cpp)|
 |[Garçom](https://neps.academy/br/exercise/324)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Garçom.cpp)|
 |[Lâmpadas](https://neps.academy/br/exercise/52)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Lâmpadas.cpp)|
