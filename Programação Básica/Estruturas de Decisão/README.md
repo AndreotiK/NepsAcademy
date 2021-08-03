@@ -39,4 +39,8 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Primo](https://neps.academy/br/exercise/247)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Primo.cpp)|
 |[Quadrado ou retângulo](https://neps.academy/br/exercise/758)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quadrado%20ou%20Retângulo.cpp)|
 |[Quadrante](https://neps.academy/br/exercise/146)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quadrante.cpp)|
+|[Quermesse](https://neps.academy/br/exercise/648)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quermesse.cpp)|
+|[Senha 2018](https://neps.academy/br/exercise/153)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Senha%202018.cpp)|
+|[Teleférico](https://neps.academy/br/exercise/15)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Teleférico.cpp)|
+|[Torque](https://neps.academy/br/exercise/1210)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Torque.cpp)|
 |[Zerinho ou Um](https://neps.academy/br/exercise/88)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Zerinho%20ou%20Um.cpp)|
