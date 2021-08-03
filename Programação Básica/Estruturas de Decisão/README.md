@@ -28,10 +28,15 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Maior ou Menor de Idade](https://neps.academy/br/exercise/752)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Maior%20ou%20Menor%20de%20Idade.cpp)|
 |[Medalhas](https://neps.academy/br/exercise/2)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Medalhas.cpp)|
 |[Móbile (OBI 2015)](https://neps.academy/br/exercise/50)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Móbile%20(OBI%202015).cpp)|
+|[O Problema 3n + 1](https://neps.academy/br/exercise/259)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/O%20Problema%203n%20+%201.cpp)|
 |[O chamado do mamaco](https://neps.academy/br/exercise/1245)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/O%20chamado%20do%20mamaco.cpp)|
 |[Operações](https://neps.academy/br/exercise/218)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Operações.cpp)|
 |[Overflow](https://neps.academy/br/exercise/225)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Overflow.cpp)|
 |[Par ou Ímpar](https://neps.academy/br/exercise/148)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Par%20ou%20Ímpar.cpp)|
+|[Petiscos para cães](https://neps.academy/br/exercise/1413)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Petiscos%20para%20cães.cpp)|
+|[Plantação de Morangos](https://neps.academy/br/exercise/53)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Plantação%20de%20Morangos.cpp)|
 |[Positivo, Negativo ou Nulo](https://neps.academy/br/exercise/145)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Positivo%2C%20Negativo%20ou%20Nulo.cpp)|
+|[Primo](https://neps.academy/br/exercise/247)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Primo.cpp)|
+|[Quadrado ou retângulo](https://neps.academy/br/exercise/758)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quadrado%20ou%20Retângulo.cpp)|
 |[Quadrante](https://neps.academy/br/exercise/146)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quadrante.cpp)|
 |[Zerinho ou Um](https://neps.academy/br/exercise/88)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Zerinho%20ou%20Um.cpp)|
