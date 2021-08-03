@@ -4,6 +4,7 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 |[A Idade de Dona Mônica](https://neps.academy/br/exercise/463)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/A%20Idade%20de%20Dona%20Mônica.cpp)|
 |[A Limonada de Manolo](https://neps.academy/br/exercise/193)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/A%20Limonada%20de%20Manolo.cpp)|
+|[Acelerador de Partículas](https://neps.academy/br/exercise/822)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Acelerador%20de%20Partículas.cpp)|
 |[Ajude Odelmo Tigrão](https://neps.academy/br/exercise/)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Ajude%20Odelmo%20Tigrão.cpp)|
 |[Andando no Tempo](https://neps.academy/br/exercise/)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Andando%20no%20Tempo.cpp)|
 |[Aprovado ou Reprovado](https://neps.academy/br/exercise/86)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Aprovado%20ou%20Reprovado.cpp)  | 
@@ -23,6 +24,7 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Garçom](https://neps.academy/br/exercise/324)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Garçom.cpp)|
 |[Iguais ou Diferentes](https://neps.academy/br/exercise/745)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Iguais%20ou%20Diferentes.cpp)|
 |[Impedido!](https://neps.academy/br/exercise/46)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Impedido!.cpp)|
+|[Lâmpadas do Hotel](https://neps.academy/br/exercise/59)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Lâmpadas%20do%20Hotel.cpp)|
 |[Lâmpadas](https://neps.academy/br/exercise/52)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Lâmpadas.cpp)|
 |[Maior Entre Três Números](https://neps.academy/br/exercise/150)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Maior%20Entre%20Três%20Números.cpp)|
 |[Maior ou Menor de Idade](https://neps.academy/br/exercise/752)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Maior%20ou%20Menor%20de%20Idade.cpp)|
@@ -41,6 +43,8 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Quadrante](https://neps.academy/br/exercise/146)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quadrante.cpp)|
 |[Quermesse](https://neps.academy/br/exercise/648)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Quermesse.cpp)|
 |[Senha 2018](https://neps.academy/br/exercise/153)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Senha%202018.cpp)|
+|[Telefone (P1)](https://neps.academy/br/exercise/235)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Telefone%20(P1).cpp)|
 |[Teleférico](https://neps.academy/br/exercise/15)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Teleférico.cpp)|
+|[Tira-Teima](https://neps.academy/br/exercise/220)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Tira-Teima.cpp)|
 |[Torque](https://neps.academy/br/exercise/1210)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Torque.cpp)|
 |[Zerinho ou Um](https://neps.academy/br/exercise/88)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Zerinho%20ou%20Um.cpp)|
