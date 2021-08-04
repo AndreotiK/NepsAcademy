@@ -16,6 +16,7 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Classificação de Triângulos](https://neps.academy/br/exercise/663)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Classificação%20de%20Triângulos.cpp)|
 |[Cobra Coral](https://neps.academy/br/exercise/72)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Cobra%20Coral.cpp)|
 |[Código (OBI 2015)](https://neps.academy/br/exercise/47)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Código%20(OBI%202015).cpp)|
+|[Costa](https://neps.academy/br/exercise/)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Costa.cpp)|
 |[Doação de Sangue](https://neps.academy/br/exercise/754)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Doação%20de%20Sangue.cpp)|
 |[Drone de Entrega](https://neps.academy/br/exercise/14)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Drone%20de%20Entrega.cpp)|
 |[Flíper](https://neps.academy/br/exercise/87)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Flíper.cpp)|
