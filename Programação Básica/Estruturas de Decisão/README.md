@@ -5,8 +5,8 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[A Idade de Dona Mônica](https://neps.academy/br/exercise/463)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/A%20Idade%20de%20Dona%20Mônica.cpp)|
 |[A Limonada de Manolo](https://neps.academy/br/exercise/193)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/A%20Limonada%20de%20Manolo.cpp)|
 |[Acelerador de Partículas](https://neps.academy/br/exercise/822)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Acelerador%20de%20partículas.cpp)|
-|[Ajude Odelmo Tigrão](https://neps.academy/br/exercise/)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Ajude%20Odelmo%20Tigrão.cpp)|
-|[Andando no Tempo](https://neps.academy/br/exercise/)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Andando%20no%20Tempo.cpp)|
+|[Ajude Odelmo Tigrão](https://neps.academy/br/exercise/1256)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Ajude%20Odelmo%20Tigrão.cpp)|
+|[Andando no Tempo](https://neps.academy/br/exercise/111)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Andando%20no%20Tempo.cpp)|
 |[Aprovado ou Reprovado](https://neps.academy/br/exercise/86)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Aprovado%20ou%20Reprovado.cpp)  | 
 |[Basquete de Robôs](https://neps.academy/br/exercise/162)   |[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Basquete%20de%20Robôs.cpp)      |
 |[Bondinho](https://neps.academy/br/exercise/13)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Bondinho.cpp)|
@@ -16,7 +16,7 @@ Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão 
 |[Classificação de Triângulos](https://neps.academy/br/exercise/663)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Classificação%20de%20Triângulos.cpp)|
 |[Cobra Coral](https://neps.academy/br/exercise/72)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Cobra%20Coral.cpp)|
 |[Código (OBI 2015)](https://neps.academy/br/exercise/47)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Código%20(OBI%202015).cpp)|
-|[Costa](https://neps.academy/br/exercise/)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Costa.cpp)|
+|[Costa](https://neps.academy/br/exercise/329)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Costa.cpp)|
 |[Doação de Sangue](https://neps.academy/br/exercise/754)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Doação%20de%20Sangue.cpp)|
 |[Drone de Entrega](https://neps.academy/br/exercise/14)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Drone%20de%20Entrega.cpp)|
 |[Flíper](https://neps.academy/br/exercise/87)|[Código em C++](https://github.com/AndreotiK/NepsAcademy/blob/main/Programação%20Básica/Estruturas%20de%20Decisão/Códigos/Flíper.cpp)|
