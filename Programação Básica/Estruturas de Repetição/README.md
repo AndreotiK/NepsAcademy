@@ -1,4 +1,4 @@
-Neste repositório há exercícios do subtema de Estruturas de Decisão. Estão listados abaixo resoluções e enunciados:
+Neste repositório há exercícios do subtema de Estruturas de Repetição. Estão listados abaixo resoluções e enunciados:
 
 | **Enunciado no Neps Academy** | **Resolução no Repositório** |
 |-------------------------------|------------------------------|
